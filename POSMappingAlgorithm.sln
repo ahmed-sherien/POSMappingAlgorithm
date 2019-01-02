@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSMappingAlgorithm", "POSMappingAlgorithm\POSMappingAlgorithm.csproj", "{D76795E3-FE08-4BC1-BE5A-B25EAE697FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76795E3-FE08-4BC1-BE5A-B25EAE697FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76795E3-FE08-4BC1-BE5A-B25EAE697FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76795E3-FE08-4BC1-BE5A-B25EAE697FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76795E3-FE08-4BC1-BE5A-B25EAE697FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4747DE1A-AF9B-4379-9853-C850F02751CC}
+	EndGlobalSection
+EndGlobal
